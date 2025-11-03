@@ -1,0 +1,11 @@
+"""Pydantic model for small example Item."""
+
+from pydantic import BaseModel
+
+
+class Item(BaseModel):
+    id: int
+    name: str
+    description: str = None
+    price: float
+    tax: float = None
