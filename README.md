@@ -3,7 +3,7 @@
 ## 📁 Estrutura do Projeto
 
 ```
-fastapi-ci-sample/
+qts/
 │
 ├── app/
 │   ├── __init__.py          # Inicialização do pacote
