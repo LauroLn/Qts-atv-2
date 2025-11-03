@@ -1,6 +1,3 @@
-# FastAPI CI Demo (modificado)
-
-[![CI Pipeline](https://github.com/your-username/fastapi-ci-sample/actions/workflows/ci.yml/badge.svg)](https://github.com/your-username/fastapi-ci-sample/actions/workflows/ci.yml)
 
 
 ## 📁 Estrutura do Projeto
@@ -226,4 +223,5 @@ To run the tests, use pytest:
 ```
 pytest
 ```
+
 
